@@ -46,7 +46,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/python.svg" alt="python" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a> </p>
