@@ -2,19 +2,18 @@
 
 
 <h1 align="center">, I'm Alireza Gholamrezaei</h1>
-<h4 align="center"> Fullstack Developer I develop web applications. I am worse by learning new technologies. The base I am a Php and C# developer; devoted with passion I aggravate my field of knowledge with other programming language.</h4>
+<h4 align="center"> Full Stack Developer.
+Web Applications Developer. Advanced in Php and C#.
+ I am the person who is always eager to learn new technologies.Also I like to make progress in my field of career.</h4>
 
 
 
 
 
-- 🌱 I’m currently learning **Sprint Boot,**
+- 🌱 I’m currently learning **Django,**
 
+- 📫  Reach Me By **alireza.gh.d@gmail.com**
 
-
-- 📫 How to reach me **alireza.gh.d@gmail.com**
-
-- ⚡ Fun fact **no matter how happy or unhappy do first a committee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
