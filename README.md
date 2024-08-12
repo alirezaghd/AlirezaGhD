@@ -3,7 +3,7 @@
 
 <h1 align="center">, I'm Alireza Gholamrezaei</h1>
 <h4 align="center"> Full Stack Developer.
-Web Applications Developer. Advanced in Php and C#.
+Web Applications Developer. Advanced in Php and python.
  I am the person who is always eager to learn new technologies.Also I like to make progress in my field of career.</h4>
 
 
